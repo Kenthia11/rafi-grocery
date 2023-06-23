@@ -139,3 +139,5 @@ venv.bak/
 # data files
 *.avro
 data/*
+
+passwords.txt
